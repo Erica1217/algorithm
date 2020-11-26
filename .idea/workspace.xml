@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71f2da0a-8a3c-4f4a-ab22-bc24f0108370" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/11053 가장 긴 증가하는 부분 수열/11053 가장 긴 증가하는 부분 수열/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11054 가장 긴 바이토닉 부분 수열/11054 가장 긴 바이토닉 부분 수열/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11055 가장 큰 증가 부분 수열/11055 가장 큰 증가 부분 수열/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11057 오르막수/11057 오르막수/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11722 가장 긴 감소하는 부분 수열/11722 가장 긴 감소하는 부분 수열/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13398 연속합 2/13398 연속합 2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13913 숨바꼭질4/13913 숨바꼭질4/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14002 가장 긴 증가하는 부분 수열 4/14002 가장 긴 증가하는 부분 수열 4/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15649 n과m/15649 n과m/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15650 n과 m/15650 n과 m/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15651 n과 m(3)/15651 n과 m(3)/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15652 n과 m(4)/15652 n과 m(4)/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15654 n과 m(5)/15654 n과 m(5)/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15655 n과 m(5)/15655 n과 m(5)/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15656 n과 m(7)/15656 n과 m(7)/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15657 n과 m(8)/15657 n과 m(8)/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15663 n과 m(9)/15663 n과 m(9)/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15664 n과 m(10)/15664 n과 m(10)/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15665 n과 m(11)/15665 n과 m(11)/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15666 n과 m(12)/15666 n과 m(12)/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15990 1,2,3 더하기 5/15990 1,2,3 더하기 5/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15990 1,2,3 더하기 5/15990 1,2,3 더하기 5/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16194 카드구매하기2/16194 카드구매하기2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1699 제곱수의 합/1699 제곱수의 합/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1912 연속합/1912 연속합/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2156 포도주 시식/2156 포도주 시식/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2225 합분해/2225 합분해/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2529 부등호/2529 부등호/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5557 1학년/5557 1학년/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11053 가장 긴 증가하는 부분 수열/11053 가장 긴 증가하는 부분 수열.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/11053 가장 긴 증가하는 부분 수열/11053 가장 긴 증가하는 부분 수열.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11053 가장 긴 증가하는 부분 수열/11053 가장 긴 증가하는 부분 수열/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/11053 가장 긴 증가하는 부분 수열/11053 가장 긴 증가하는 부분 수열/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11054 가장 긴 바이토닉 부분 수열/11054 가장 긴 바이토닉 부분 수열.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/11054 가장 긴 바이토닉 부분 수열/11054 가장 긴 바이토닉 부분 수열.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11054 가장 긴 바이토닉 부분 수열/11054 가장 긴 바이토닉 부분 수열/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/11054 가장 긴 바이토닉 부분 수열/11054 가장 긴 바이토닉 부분 수열/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11055 가장 큰 증가 부분 수열/11055 가장 큰 증가 부분 수열.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/11055 가장 큰 증가 부분 수열/11055 가장 큰 증가 부분 수열.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11055 가장 큰 증가 부분 수열/11055 가장 큰 증가 부분 수열/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/11055 가장 큰 증가 부분 수열/11055 가장 큰 증가 부분 수열/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11057 오르막수/11057 오르막수.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/11057 오르막수/11057 오르막수.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11057 오르막수/11057 오르막수/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/11057 오르막수/11057 오르막수/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11722 가장 긴 감소하는 부분 수열/11722 가장 긴 감소하는 부분 수열.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/11722 가장 긴 감소하는 부분 수열/11722 가장 긴 감소하는 부분 수열.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11722 가장 긴 감소하는 부분 수열/11722 가장 긴 감소하는 부분 수열/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/11722 가장 긴 감소하는 부분 수열/11722 가장 긴 감소하는 부분 수열/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13398 연속합 2/13398 연속합 2.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/13398 연속합 2/13398 연속합 2.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13398 연속합 2/13398 연속합 2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/13398 연속합 2/13398 연속합 2/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13913 숨바꼭질4/13913 숨바꼭질4.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/13913 숨바꼭질4/13913 숨바꼭질4.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13913 숨바꼭질4/13913 숨바꼭질4/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/13913 숨바꼭질4/13913 숨바꼭질4/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14002 가장 긴 증가하는 부분 수열 4/14002 가장 긴 증가하는 부분 수열 4.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/14002 가장 긴 증가하는 부분 수열 4/14002 가장 긴 증가하는 부분 수열 4.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14002 가장 긴 증가하는 부분 수열 4/14002 가장 긴 증가하는 부분 수열 4/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/14002 가장 긴 증가하는 부분 수열 4/14002 가장 긴 증가하는 부분 수열 4/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15649 n과m/15649 n과m.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/15649 n과m/15649 n과m.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15649 n과m/15649 n과m/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/15649 n과m/15649 n과m/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15650 n과 m/15650 n과 m.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/15650 n과 m/15650 n과 m.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15650 n과 m/15650 n과 m/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/15650 n과 m/15650 n과 m/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15651 n과 m(3)/15651 n과 m(3).xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/15651 n과 m(3)/15651 n과 m(3).xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15651 n과 m(3)/15651 n과 m(3)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/15651 n과 m(3)/15651 n과 m(3)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15652 n과 m(4)/15652 n과 m(4).xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/15652 n과 m(4)/15652 n과 m(4).xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15652 n과 m(4)/15652 n과 m(4)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/15652 n과 m(4)/15652 n과 m(4)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15654 n과 m(5)/15654 n과 m(5).xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/15654 n과 m(5)/15654 n과 m(5).xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15654 n과 m(5)/15654 n과 m(5)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/15654 n과 m(5)/15654 n과 m(5)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15655 n과 m(5)/15655 n과 m(5).xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/15655 n과 m(5)/15655 n과 m(5).xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15655 n과 m(5)/15655 n과 m(5)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/15655 n과 m(5)/15655 n과 m(5)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15656 n과 m(7)/15656 n과 m(7).xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/15656 n과 m(7)/15656 n과 m(7).xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15656 n과 m(7)/15656 n과 m(7)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/15656 n과 m(7)/15656 n과 m(7)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15657 n과 m(8)/15657 n과 m(8).xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/15657 n과 m(8)/15657 n과 m(8).xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15657 n과 m(8)/15657 n과 m(8)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/15657 n과 m(8)/15657 n과 m(8)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15663 n과 m(9)/15663 n과 m(9).xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/15663 n과 m(9)/15663 n과 m(9).xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15663 n과 m(9)/15663 n과 m(9)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/15663 n과 m(9)/15663 n과 m(9)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15664 n과 m(10)/15664 n과 m(10).xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/15664 n과 m(10)/15664 n과 m(10).xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15664 n과 m(10)/15664 n과 m(10)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/15664 n과 m(10)/15664 n과 m(10)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15665 n과 m(11)/15665 n과 m(11).xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/15665 n과 m(11)/15665 n과 m(11).xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15665 n과 m(11)/15665 n과 m(11)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/15665 n과 m(11)/15665 n과 m(11)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15666 n과 m(12)/15666 n과 m(12).xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/15666 n과 m(12)/15666 n과 m(12).xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15666 n과 m(12)/15666 n과 m(12)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/15666 n과 m(12)/15666 n과 m(12)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15990 1,2,3 더하기 5/15990 1,2,3 더하기 5.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/15990 1,2,3 더하기 5/15990 1,2,3 더하기 5.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15990 1,2,3 더하기 5/15990 1,2,3 더하기 5/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/15990 1,2,3 더하기 5/15990 1,2,3 더하기 5/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16194 카드구매하기2/16194 카드구매하기2.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/16194 카드구매하기2/16194 카드구매하기2.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16194 카드구매하기2/16194 카드구매하기2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/16194 카드구매하기2/16194 카드구매하기2/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1699 제곱수의 합/1699 제곱수의 합.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/1699 제곱수의 합/1699 제곱수의 합.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1699 제곱수의 합/1699 제곱수의 합/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1699 제곱수의 합/1699 제곱수의 합/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1912 연속합/1912 연속합.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/1912 연속합/1912 연속합.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1912 연속합/1912 연속합/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1912 연속합/1912 연속합/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2156 포도주 시식/2156 포도주 시식.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/2156 포도주 시식/2156 포도주 시식.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2156 포도주 시식/2156 포도주 시식/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/2156 포도주 시식/2156 포도주 시식/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2225 합분해/2225 합분해.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/2225 합분해/2225 합분해.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2225 합분해/2225 합분해/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/2225 합분해/2225 합분해/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2529 부등호/2529 부등호.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/2529 부등호/2529 부등호.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2529 부등호/2529 부등호/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/2529 부등호/2529 부등호/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5557 1학년/5557 1학년.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/5557 1학년/5557 1학년.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5557 1학년/5557 1학년/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/5557 1학년/5557 1학년/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/main.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/17863 FYI/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="30" lean-forward="true" selection-end-line="1" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/10844 쉬운 계단 수" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/14909 양수 개수 세기/main.py" />
+        <option value="$PROJECT_DIR$/9517 아이 러브 크로아티아/main.py" />
+        <option value="$PROJECT_DIR$/13241 최소공배수/main.py" />
+        <option value="$PROJECT_DIR$/10867 중복 빼고 정렬하기.py" />
+        <option value="$PROJECT_DIR$/2693 N번째 큰 수/main.py" />
+        <option value="$PROJECT_DIR$/11653 소인수분해/main.py" />
+        <option value="$PROJECT_DIR$/17863 FYI/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
+              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="알고리즘" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="알고리즘" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="11653 소인수분해" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="알고리즘" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="17863 FYI" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main (4)">
+    <configuration name="10867 중복 빼고 정렬하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10867 중복 빼고 정렬하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13241 최소공배수" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13241 최소공배수/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2693 N번째 큰 수" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2693 N번째 큰 수/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11653 소인수분해" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11653 소인수분해/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17863 FYI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17863 FYI/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.10867 중복 빼고 정렬하기" />
+        <item itemvalue="Python.main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71f2da0a-8a3c-4f4a-ab22-bc24f0108370" name="Default Changelist" comment="" />
+      <created>1565928210313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565928210313</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Project Explorer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Job Explorer" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/14909 양수 개수 세기/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9517 아이 러브 크로아티아/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13241 최소공배수/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10867 중복 빼고 정렬하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="7" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2693 N번째 큰 수/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11653 소인수분해/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17863 FYI/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="30" lean-forward="true" selection-end-line="1" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
